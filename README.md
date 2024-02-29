@@ -1,0 +1,2 @@
+# Inventory-system
+# Basic CRUD OPERATION USING PHP/MYSQL AJAX
